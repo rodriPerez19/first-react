@@ -3,6 +3,8 @@ import React, { Fragment } from "react";
 import data from "./mocks/data";
 
 import InternalA from "./presentational/internalA";
+
+
 const cMap=(unit,i)=>{
     if(i %2 ==0){
 
