@@ -1,5 +1,3 @@
-
-
 const maped= (unit,i)=>{
     return(
 
